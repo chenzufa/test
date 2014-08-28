@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>686C9DD3-B60E-4C6F-99BE-5F0707B38EDD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HaiLanZhiJia</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>75826726-CCFD-4E6B-8799-CC88CE1A0A97</key>
+		<string>http://192.168.1.13:8080/svn/app/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HaiLanZhiJia.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>75826726-CCFD-4E6B-8799-CC88CE1A0A97</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>75826726-CCFD-4E6B-8799-CC88CE1A0A97</key>
+		<string>http://192.168.1.13:8080/svn/app</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://192.168.1.13:8080/svn/app/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>75826726-CCFD-4E6B-8799-CC88CE1A0A97</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>75826726-CCFD-4E6B-8799-CC88CE1A0A97</string>
+			<key>IDESourceControlWCCName</key>
+			<string>海澜之家20140310</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,21 @@
+
+
+
+This is the help for ASILoader going well.
+
+
+    add the following frameworks,
+
+        CFNetwork.framework
+        SystemConfiguration.framework
+        MobileCoreServices.framework
+        libz.dylib
+        libxml2.dylib
+
+    add the words, 
+
+        ${SDK_DIR}/usr/include/libxml2
+
+    into Header Search Paths.
+
+

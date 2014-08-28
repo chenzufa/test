@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/app/!svn/ver/42610/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Controller/%E8%B4%AD%E7%89%A9%E8%BD%A6
+END
+SubviewInfoDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Controller/%E8%B4%AD%E7%89%A9%E8%BD%A6/SubviewInfoDelegate.h
+END
+OrderFormVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/app/!svn/ver/42086/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Controller/%E8%B4%AD%E7%89%A9%E8%BD%A6/OrderFormVC.m
+END
+OrderSuccessVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/app/!svn/ver/40911/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Controller/%E8%B4%AD%E7%89%A9%E8%BD%A6/OrderSuccessVC.h
+END
+OrderSuccessVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/app/!svn/ver/42610/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Controller/%E8%B4%AD%E7%89%A9%E8%BD%A6/OrderSuccessVC.m
+END
+PayMentVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/app/!svn/ver/40930/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Controller/%E8%B4%AD%E7%89%A9%E8%BD%A6/PayMentVC.h
+END
+DiYongQuanVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/app/!svn/ver/39807/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Controller/%E8%B4%AD%E7%89%A9%E8%BD%A6/DiYongQuanVC.h
+END
+BillVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Controller/%E8%B4%AD%E7%89%A9%E8%BD%A6/BillVC.h
+END
+PayMentVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/app/!svn/ver/40933/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Controller/%E8%B4%AD%E7%89%A9%E8%BD%A6/PayMentVC.m
+END
+DiYongQuanVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/app/!svn/ver/40645/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Controller/%E8%B4%AD%E7%89%A9%E8%BD%A6/DiYongQuanVC.m
+END
+XianJinQuanVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/app/!svn/ver/39807/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Controller/%E8%B4%AD%E7%89%A9%E8%BD%A6/XianJinQuanVC.h
+END
+BeizhuVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Controller/%E8%B4%AD%E7%89%A9%E8%BD%A6/BeizhuVC.h
+END
+GouWuCheVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/app/!svn/ver/42267/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Controller/%E8%B4%AD%E7%89%A9%E8%BD%A6/GouWuCheVC.h
+END
+BillVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/app/!svn/ver/41026/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Controller/%E8%B4%AD%E7%89%A9%E8%BD%A6/BillVC.m
+END
+SelectGiftVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Controller/%E8%B4%AD%E7%89%A9%E8%BD%A6/SelectGiftVC.h
+END
+XianJinQuanVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/app/!svn/ver/40645/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Controller/%E8%B4%AD%E7%89%A9%E8%BD%A6/XianJinQuanVC.m
+END
+DeliverVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Controller/%E8%B4%AD%E7%89%A9%E8%BD%A6/DeliverVC.h
+END
+GouWuCheVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/app/!svn/ver/41366/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Controller/%E8%B4%AD%E7%89%A9%E8%BD%A6/GouWuCheVC.m
+END
+BeizhuVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/app/!svn/ver/40979/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Controller/%E8%B4%AD%E7%89%A9%E8%BD%A6/BeizhuVC.m
+END
+SelectGiftVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/app/!svn/ver/41192/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Controller/%E8%B4%AD%E7%89%A9%E8%BD%A6/SelectGiftVC.m
+END
+OrderFormVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/app/!svn/ver/42086/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Controller/%E8%B4%AD%E7%89%A9%E8%BD%A6/OrderFormVC.h
+END
+DeliverVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/app/!svn/ver/41136/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Controller/%E8%B4%AD%E7%89%A9%E8%BD%A6/DeliverVC.m
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/app/!svn/ver/42774/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/TencentOpenAPI.framework/Headers
+END
+WeiyunAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/app/!svn/ver/42774/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/TencentOpenAPI.framework/Headers/WeiyunAPI.h
+END
+QQApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/app/!svn/ver/42774/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/TencentOpenAPI.framework/Headers/QQApi.h
+END
+TencentApiInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/app/!svn/ver/42774/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/TencentOpenAPI.framework/Headers/TencentApiInterface.h
+END
+QQApiInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/app/!svn/ver/42774/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/TencentOpenAPI.framework/Headers/QQApiInterface.h
+END
+TencentMessageObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/app/!svn/ver/42774/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/TencentOpenAPI.framework/Headers/TencentMessageObject.h
+END
+WeiBoAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/app/!svn/ver/42774/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/TencentOpenAPI.framework/Headers/WeiBoAPI.h
+END
+sdkdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/app/!svn/ver/42774/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/TencentOpenAPI.framework/Headers/sdkdef.h
+END
+TencentOAuth.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/app/!svn/ver/42774/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/TencentOpenAPI.framework/Headers/TencentOAuth.h
+END
+QQApiInterfaceObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/app/!svn/ver/42774/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/TencentOpenAPI.framework/Headers/QQApiInterfaceObject.h
+END
+TencentOAuthObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/app/!svn/ver/42774/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/TencentOpenAPI.framework/Headers/TencentOAuthObject.h
+END

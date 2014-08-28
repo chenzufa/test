@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/app/!svn/ver/43031/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell
+END
+OrderInfoCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/app/!svn/ver/40495/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/OrderInfoCell.m
+END
+CommonCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/CommonCell.m
+END
+OrderDetailCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/app/!svn/ver/42086/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/OrderDetailCell.h
+END
+UserInfomationCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/UserInfomationCell.h
+END
+OrderDetailCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/app/!svn/ver/42086/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/OrderDetailCell.m
+END
+UserInfomationCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/app/!svn/ver/41084/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/UserInfomationCell.m
+END
+ScoreRecordCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/ScoreRecordCell.h
+END
+OrderRemindCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/OrderRemindCell.h
+END
+ScoreRecordCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/ScoreRecordCell.m
+END
+OrderRemindCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/OrderRemindCell.m
+END
+CashConponCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/CashConponCell.h
+END
+NotShowClothCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/NotShowClothCell.h
+END
+CashConponCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/app/!svn/ver/40393/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/CashConponCell.m
+END
+NotShowClothCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/app/!svn/ver/40408/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/NotShowClothCell.m
+END
+MycollectionCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/MycollectionCell.h
+END
+RecentBrowseCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/app/!svn/ver/41144/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/RecentBrowseCell.h
+END
+PKShowClothCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/app/!svn/ver/41053/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/PKShowClothCell.h
+END
+MycollectionCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/MycollectionCell.m
+END
+OrderManagerCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/app/!svn/ver/39388/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/OrderManagerCell.h
+END
+MyReviewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/app/!svn/ver/40413/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/MyReviewCell.h
+END
+RecentBrowseCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/app/!svn/ver/41144/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/RecentBrowseCell.m
+END
+PKShowClothCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/app/!svn/ver/41098/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/PKShowClothCell.m
+END
+ShowClothCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/ShowClothCell.h
+END
+OrderManagerCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/app/!svn/ver/42939/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/OrderManagerCell.m
+END
+MyReviewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/app/!svn/ver/40413/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/MyReviewCell.m
+END
+ShowClothCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/app/!svn/ver/43031/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/ShowClothCell.m
+END
+AddressManagerCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/AddressManagerCell.h
+END
+MyConpnCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/MyConpnCell.h
+END
+AddressManagerCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/app/!svn/ver/40868/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/AddressManagerCell.m
+END
+OrderInfoCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/OrderInfoCell.h
+END
+MyConpnCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/MyConpnCell.m
+END
+CommonCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/View/%E6%88%91%E7%9A%84%E8%A1%A3%E6%9F%9C/cell/CommonCell.h
+END

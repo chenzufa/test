@@ -1,0 +1,1928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RecommendGoods</key>
+	<string>{
+	
+        &quot;recommend&quot;:[
+        {
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;price&quot;:&quot;180.3&quot;,
+        &quot;color&quot;:&quot;5种&quot;
+        },
+        {
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;price&quot;:&quot;180.3&quot;,
+        &quot;color&quot;:&quot;5种&quot;
+        },
+        {
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;price&quot;:&quot;180.3&quot;,
+        &quot;color&quot;:&quot;5种&quot;
+        },
+        {
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;price&quot;:&quot;180.3&quot;,
+        &quot;color&quot;:&quot;5种&quot;
+        },
+        {
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;price&quot;:&quot;180.3&quot;,
+        &quot;color&quot;:&quot;5种&quot;
+        }
+       ],
+
+&quot;result&quot;:{
+			&quot;error_code&quot;:200,
+			&quot;error_msg&quot;:&quot;错误提示信息&quot;
+}
+}
+</string>
+	<key>FocusInfo</key>
+	<string>{
+        
+        &quot;focus&quot;: [
+        {
+        &quot;type&quot;:1,
+        &quot;imgurl&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsid&quot;:&quot;123456&quot;,
+        &quot;weburl&quot;:&quot;http://www.baidu.com&quot;,
+        &quot;specialid&quot;:&quot;123&quot;,
+        &quot;specialtype&quot;:1
+        },
+        {
+        &quot;type&quot;:2,
+        &quot;imgurl&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsid&quot;:&quot;123456&quot;,
+        &quot;weburl&quot;:&quot;http://www.baidu.com&quot;,
+        &quot;specialid&quot;:&quot;123&quot;,
+        &quot;specialtype&quot;:1
+        },
+        {
+        &quot;type&quot;:3,
+        &quot;imgurl&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsid&quot;:&quot;123456&quot;,
+        &quot;weburl&quot;:&quot;http://www.baidu.com&quot;,
+        &quot;specialid&quot;:&quot;123&quot;,
+        &quot;specialtype&quot;:1
+        },
+        {
+        &quot;type&quot;:1,
+        &quot;imgurl&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsid&quot;:&quot;123456&quot;,
+        &quot;weburl&quot;:&quot;http://www.baidu.com&quot;,
+        &quot;specialid&quot;:&quot;123&quot;,
+        &quot;specialtype&quot;:2
+        }
+        ]
+        ,
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>GetSpecialList</key>
+	<string>{
+        
+        &quot;special&quot;: [
+        {
+        &quot;imgurl&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;specialid&quot;:&quot;123&quot;,
+        &quot;specialtype&quot;:5,
+        &quot;title&quot;:&quot;时尚免烫衬衫1&quot;,
+        &quot;subtitle&quot;:&quot;商务人士首选&quot;
+        },
+        {
+        &quot;imgurl&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;specialid&quot;:&quot;123&quot;,
+        &quot;specialtype&quot;:1,
+        &quot;title&quot;:&quot;时尚免烫衬衫2&quot;,
+        &quot;subtitle&quot;:&quot;商务人士首选&quot;
+        },
+        {
+        &quot;imgurl&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;specialid&quot;:&quot;123&quot;,
+        &quot;specialtype&quot;:2,
+        &quot;title&quot;:&quot;时尚免烫衬衫3&quot;,
+        &quot;subtitle&quot;:&quot;商务人士首选&quot;
+        },
+        {
+        &quot;imgurl&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;specialid&quot;:&quot;123&quot;,
+        &quot;specialtype&quot;:3,
+        &quot;title&quot;:&quot;时尚免烫衬衫4&quot;,
+        &quot;subtitle&quot;:&quot;商务人士首选&quot;
+        },
+        {
+        &quot;imgurl&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;specialid&quot;:&quot;123&quot;,
+        &quot;specialtype&quot;:4,
+        &quot;title&quot;:&quot;时尚免烫衬衫5&quot;,
+        &quot;subtitle&quot;:&quot;商务人士首选&quot;
+        }
+        ],
+        
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>GetSpecialActivityList</key>
+	<string>{
+        &quot;rule&quot;:&quot;活动规则描述&quot;,
+        &quot;portalimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodslist&quot;: [{
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称商品名称商品名称商品名称商品名称商品名称商品名称商品名称&quot;,
+        &quot;price&quot;:&quot; ¥180.3&quot;,
+        &quot;color&quot;:&quot;5种&quot;
+        },
+        {
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称商品名称商品名称商品名称商品名称&quot;,
+        &quot;price&quot;:&quot; ¥180.3&quot;,
+        &quot;color&quot;:&quot;5种&quot;
+        },
+        {
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称商品名称商品名称商品名称商品名称&quot;,
+        &quot;price&quot;:&quot; ¥180.3&quot;,
+        &quot;color&quot;:&quot;5种&quot;
+        }
+        ],
+        
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>GetSpecialBuyList</key>
+	<string>{
+        &quot;rule&quot;:&quot;规则描述&quot;,
+        &quot;goodslist&quot;: [{
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;originprice&quot;:&quot; ¥280.3&quot;,
+        &quot;currentprice&quot;:&quot; ¥180.3&quot;,
+        &quot;isstart&quot;:0,
+        &quot;timeleft&quot;:&quot;856&quot;,
+        &quot;store&quot;:0,
+        &quot;joincount&quot;:100
+        },
+        {
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;originprice&quot;:&quot; ¥280.3&quot;,
+        &quot;currentprice&quot;:&quot; ¥180.3&quot;,
+        &quot;isstart&quot;:0,
+        &quot;timeleft&quot;:&quot;8456&quot;,
+        &quot;store&quot;:0,
+        &quot;joincount&quot;:100
+        },
+        {
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=40c2cbb8024f78f0800b9df34d090b55/29381f30e924b899122e2cd46f061d950b7bf6c8.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;originprice&quot;:&quot; ¥280.3&quot;,
+        &quot;currentprice&quot;:&quot; ¥180.3&quot;,
+        &quot;isstart&quot;:0,
+        &quot;timeleft&quot;:&quot;457&quot;,
+        &quot;store&quot;:0,
+        &quot;joincount&quot;:100
+        },
+        {
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=40c2cbb8024f78f0800b9df34d090b55/29381f30e924b899122e2cd46f061d950b7bf6c8.jpg&quot;,
+        &quot;goodsname&quot;:&quot;貂皮大衣&quot;,
+        &quot;originprice&quot;:&quot; ¥3526.1&quot;,
+        &quot;currentprice&quot;:&quot; ¥1560.3&quot;,
+        &quot;isstart&quot;:0,
+        &quot;timeleft&quot;:&quot;360&quot;,
+        &quot;store&quot;:0,
+        &quot;joincount&quot;:100
+        }
+        ],
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>GetSpecialBuyDetail</key>
+	<string>{
+        &quot;specialgoodsdetail&quot;:
+        {
+            &quot;goodsid&quot;:&quot;123&quot;,
+            &quot;goodsname&quot;:&quot;[新品]2013新款 条纹干练正装长袖衬衫 HNHD3K076&quot;,
+            &quot;goodscode&quot;:&quot; HNHD3K076&quot;,
+            &quot;originprice&quot;:&quot; ¥280.3&quot;,
+            &quot;currentprice&quot;:&quot; ¥180.3&quot;,
+            &quot;timeleft&quot;:&quot; 1小时22分钟14秒&quot;,
+            &quot;isstart&quot;:0,
+            &quot;size&quot;:	[
+                   &quot;38|165/84A&quot;,
+                   &quot;40|175/92A&quot;
+                    ],
+            &quot;colorandimgs&quot;:
+                   [{
+                     &quot;color&quot;:&quot;黑色&quot;,
+                     &quot;thumbnailimgs&quot;:[&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+                                     ],
+                      &quot;imgs&quot;:[ &quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+                            ]
+                   }],
+           &quot;imgdetail&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+           &quot;consults&quot;:100,
+            &quot;store&quot;:1,
+        },
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>GetUserComments</key>
+	<string>{
+        &quot;count&quot;:4566,
+        &quot;usercomments&quot;:[{
+        &quot;username&quot;:&quot;136****1235&quot;,
+        &quot;comment&quot;:&quot;质量很好&quot;,
+        &quot;date&quot;:&quot;2013-03-12 20:20:10&quot;,
+        &quot;csr&quot;:&quot;客户服务人员回复内容&quot;,
+        &quot;thumbnailimg&quot;:[&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        ],
+        &quot;imgarray&quot;:[&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;
+        ]
+        
+        }
+        ],
+        
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>StartupAD</key>
+	<string>{
+        &quot;havead&quot;:1,
+        &quot;detail&quot;:{
+        &quot;type&quot;:1,
+        &quot;imgurl&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsid&quot;:&quot;123456&quot;,
+        &quot;weburl&quot;:&quot;http://www.baidu.com&quot;,
+        &quot;specialid&quot;:&quot;123&quot;,
+        &quot;specialtype&quot;:1
+        },
+        
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>UploadHomeHotClick</key>
+	<string>{
+        &quot;response&quot;:1,
+        
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+    </string>
+	<key>ShoppingMallCategory</key>
+	<string>{
+        
+        &quot;category&quot;: [
+        {	&quot;categoryid&quot;:&quot;5&quot;,
+        &quot;categoryimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;categoryname&quot;:&quot;上装&quot;,
+        &quot;description&quot;:&quot;长袖衬衫/短袖衬衫&quot;,
+        &quot;subcategory&quot;:  [
+        {
+        &quot;subcategoryimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;subcatergoryname&quot;:&quot;围巾&quot;,
+        &quot;subcategoryid&quot;:&quot;12&quot;
+        },
+        {
+        &quot;subcategoryimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;subcatergoryname&quot;:&quot;领带&quot;,
+        &quot;subcategoryid&quot;:&quot;124&quot;
+        }
+        
+        ]
+        },
+        {	&quot;categoryid&quot;:&quot;1988&quot;,
+        &quot;categoryimg&quot;:&quot;http://113.106.90.141:2002/Upload/2013/11/21/e2990bae-f23c-4801-8678-e64145146b5e_640_300.jpg&quot;,
+        &quot;categoryname&quot;:&quot;袜子&quot;,
+        &quot;description&quot;:&quot;长袖衬衫/短袖衬衫&quot;,
+        &quot;subcategory&quot;:  [
+        {
+        &quot;subcategoryimg&quot;:&quot;http://113.106.90.141:2002/Upload/2013/11/21/e2990bae-f23c-4801-8678-e64145146b5e_640_300.jpg&quot;,
+        &quot;subcatergoryname&quot;:&quot;围巾&quot;,
+        &quot;subcategoryid&quot;:&quot;12&quot;
+        },
+        {
+        &quot;subcategoryimg&quot;:&quot;http://113.106.90.141:2002/Upload/2013/11/21/e2990bae-f23c-4801-8678-e64145146b5e_640_300.jpg&quot;,
+        &quot;subcatergoryname&quot;:&quot;领带&quot;,
+        &quot;subcategoryid&quot;:&quot;124&quot;
+        }
+        
+        ]
+        },
+        
+        
+        {	&quot;categoryid&quot;:&quot;2&quot;,
+        &quot;categoryimg&quot;:&quot;http://zzwk.apphl.com/Upload/2013/9/6/4f3e15bb-d26b-4cb5-a4dc-8f24833df3c2_640_334.jpg&quot;,
+        &quot;categoryname&quot;:&quot;风雨&quot;,
+        &quot;description&quot;:&quot;长袖衬衫/短袖衬衫&quot;,
+        &quot;subcategory&quot;:  [
+        {
+        &quot;subcategoryimg&quot;:&quot;http://113.106.90.141:2002/Upload/2013/11/21/e2990bae-f23c-4801-8678-e64145146b5e_640_300.jpg&quot;,
+        &quot;subcatergoryname&quot;:&quot;围巾&quot;,
+        &quot;subcategoryid&quot;:&quot;12&quot;
+        },
+        {
+        &quot;subcategoryimg&quot;:&quot;http://113.106.90.141:2002/Upload/2013/11/21/e2990bae-f23c-4801-8678-e64145146b5e_640_300.jpg&quot;,
+        &quot;subcatergoryname&quot;:&quot;领带&quot;,
+        &quot;subcategoryid&quot;:&quot;124&quot;
+        }
+        
+        ]
+        },
+
+        
+        
+        
+        {	&quot;categoryid&quot;:&quot;10&quot;,
+        &quot;categoryimg&quot;:&quot;http://113.106.90.141:2002/Upload/2013/11/21/e2990bae-f23c-4801-8678-e64145146b5e_640_300.jpg&quot;,
+        &quot;categoryname&quot;:&quot;鞋子&quot;,
+        &quot;description&quot;:&quot;长袖衬衫/短袖衬衫&quot;,
+        &quot;subcategory&quot;:  [
+        {
+        &quot;subcategoryimg&quot;:&quot;http://zzwk.apphl.com/Upload/2013/9/6/4f3e15bb-d26b-4cb5-a4dc-8f24833df3c2_640_334.jpg&quot;,
+        &quot;subcatergoryname&quot;:&quot;围巾&quot;,
+        &quot;subcategoryid&quot;:&quot;12&quot;
+        },
+        {
+        &quot;subcategoryimg&quot;:&quot;http://113.106.90.141:2002/Upload/2013/11/21/e2990bae-f23c-4801-8678-e64145146b5e_640_300.jpg&quot;,
+        &quot;subcatergoryname&quot;:&quot;领带&quot;,
+        &quot;subcategoryid&quot;:&quot;124&quot;
+        }
+        
+        ]
+        }
+        ,        {	&quot;categoryid&quot;:&quot;1&quot;,
+        &quot;categoryimg&quot;:&quot;http://113.106.90.141:2002/Upload/2013/11/21/e2990bae-f23c-4801-8678-e64145146b5e_640_300.jpg&quot;,
+        &quot;categoryname&quot;:&quot;裤子&quot;,
+        &quot;description&quot;:&quot;长袖衬衫/短袖衬衫&quot;,
+        &quot;subcategory&quot;:  [
+        {
+        &quot;subcategoryimg&quot;:&quot;http://zzwk.apphl.com/Upload/2013/9/6/4f3e15bb-d26b-4cb5-a4dc-8f24833df3c2_640_334.jpg&quot;,
+        &quot;subcatergoryname&quot;:&quot;围巾&quot;,
+        &quot;subcategoryid&quot;:&quot;12&quot;
+        },
+        {
+        &quot;subcategoryimg&quot;:&quot;http://113.106.90.141:2002/Upload/2013/11/21/e2990bae-f23c-4801-8678-e64145146b5e_640_300.jpg&quot;,
+        &quot;subcatergoryname&quot;:&quot;领带&quot;,
+        &quot;subcategoryid&quot;:&quot;124&quot;
+        }
+        
+        ]
+        },
+        {	&quot;categoryid&quot;:&quot;1&quot;,
+        &quot;categoryimg&quot;:&quot;http://zzwk.apphl.com/Upload/2013/9/6/4f3e15bb-d26b-4cb5-a4dc-8f24833df3c2_640_334.jpg&quot;,
+        &quot;categoryname&quot;:&quot;下装&quot;,
+        &quot;description&quot;:&quot;长袖衬衫/短袖衬衫&quot;,
+        &quot;subcategory&quot;:  [
+        {
+        &quot;subcategoryimg&quot;:&quot;http://113.106.90.141:2002/Upload/2013/11/21/e2990bae-f23c-4801-8678-e64145146b5e_640_300.jpg&quot;,
+        &quot;subcatergoryname&quot;:&quot;围巾&quot;,
+        &quot;subcategoryid&quot;:&quot;12&quot;
+        },
+        {
+        &quot;subcategoryimg&quot;:&quot;http://zzwk.apphl.com/Upload/2013/9/6/4f3e15bb-d26b-4cb5-a4dc-8f24833df3c2_640_334.jpg&quot;,
+        &quot;subcatergoryname&quot;:&quot;领带&quot;,
+        &quot;subcategoryid&quot;:&quot;124&quot;
+        }
+        
+        ]
+        }
+        ],
+        
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>GetGoodsListSpec</key>
+	<string>{
+        
+        &quot;spec&quot;: [
+        {
+        &quot;specname&quot;:&quot;领型&quot;,
+        &quot;specid&quot;:&quot;1&quot;,
+        &quot;subspec&quot;:[
+        {
+        &quot;subspecname&quot;:&quot;花领型&quot;,
+        &quot;subspecid&quot;:&quot;12&quot;
+        },
+        {
+        &quot;subspecname&quot;:&quot;圆领型&quot;,
+        &quot;subspecid&quot;:&quot;13&quot;
+        },
+        ]
+        }
+        ],
+        
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>GetGoodsList</key>
+	<string>{
+        
+        &quot;goodslist&quot;: [
+        {
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;【轻熟风】秋装新款 海澜之家正品 男士潮撞色格子修身长袖衬衫&quot;,
+        &quot;price&quot;:&quot; ¥180.3&quot;,
+        &quot;color&quot;:&quot;5种&quot;
+        },
+        {
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;price&quot;:&quot; ¥180.3&quot;,
+        &quot;color&quot;:&quot;5种&quot;
+        }
+        ],
+        
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+
+</string>
+	<key>GetGoodsDetail</key>
+	<string>{
+        
+        &quot;goodsintroduce&quot;: {
+        &quot;store&quot;:0,
+        &quot;imgdetail&quot;:&quot;http://heilanhome.tmall.com&quot;,
+        &quot;consults&quot;:100,
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;goodsname&quot;:&quot;[新品]2013新款 条纹干练正装长袖衬衫 HNHD3K076&quot;,
+        &quot;goodscode&quot;:&quot; HNHD3K076&quot;,
+        &quot;price&quot;:&quot; ¥180.3&quot;,
+        &quot;size&quot;:	[
+        &quot;38|165/84A&quot;,
+        &quot;40|175/92A&quot;
+        ],
+        &quot;colorandimgs&quot;:[{
+        &quot;color&quot;:&quot;黑色&quot;,
+        &quot;thumbnailimgs&quot;:[&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        ],
+        &quot;imgs&quot;:[ &quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        ]
+        }
+        ]
+        },
+
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>GetSaleConsultList</key>
+	<string>{
+        
+        &quot;consults&quot;: [
+        {
+        &quot;question&quot;:&quot;怎么啦&quot;,
+        &quot;username&quot;:&quot;138****123&quot;,
+        &quot;date&quot;:&quot;2013-02-12 10:20:10&quot;,
+        &quot;answer&quot;:&quot;你好&quot;
+        }
+        ],
+        
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>ConsultCommit</key>
+	<string>{
+        &quot;response&quot;:1,
+        &quot;result&quot;:{
+        &quot;error_code&quot;:201,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>SuitDetail</key>
+	<string>{
+        
+        &quot;suitdetail&quot;:[{
+        &quot;goodsid&quot;:&quot;1223214124&quot;,
+        &quot;img&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;name&quot;:&quot;2013冬装新款 海澜之家正品 男时尚拼接立领羽绒服外套 HYAD4B060&quot;,
+        &quot;price&quot;:&quot; ¥188.00&quot;,
+        &quot;size&quot;:	[
+        &quot;38|165/84A&quot;,
+        &quot;40|175/92A&quot;
+        ],
+        &quot;color&quot;:[
+        &quot;黑色&quot;,
+        &quot;花色&quot;
+        ]
+        }
+        ],
+        &quot;originalprice&quot;:&quot; ¥288.00&quot;,
+        &quot;discount&quot;:&quot; ¥88&quot;,
+        &quot;suitprice&quot;:&quot; ¥188&quot;,
+        
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>YourFavourateIntroduce</key>
+	<string>{
+        
+        &quot;goodslist&quot;:[{
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;img&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;name&quot;:&quot;套装商品名称&quot;,
+        &quot;price&quot;:&quot; ¥188.00&quot;,
+        &quot;color&quot;:&quot;4种颜色&quot;
+        }
+        ],
+        
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>GoodsSaving</key>
+	<string>{
+        
+        &quot;response&quot;:1,
+        
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>GetPopularSearchWords</key>
+	<string>{
+        
+        &quot;searchwords&quot;:[&quot;男装&quot;,
+        &quot;皮带&quot;,
+        &quot;西裤&quot;,
+        &quot;帽子&quot;
+        ],
+        
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>GetTextSearchResult</key>
+	<string>
+        {
+            &quot;totalsearchnumber&quot;:200,
+            &quot;goodslist&quot;:
+                        [
+                            {
+                            &quot;goodsid&quot;:&quot;123&quot;,
+                            &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+                            &quot;goodsname&quot;:&quot;商品名称&quot;,
+                            &quot;price&quot;:&quot; ¥180.3&quot;,
+                            &quot;color&quot;:&quot;5种&quot;
+                            }
+                        ],
+            &quot;failkeywords&quot;: [&quot;男装&quot;,&quot;裤子&quot;],
+            
+            &quot;result&quot;:
+                    {
+                    &quot;error_code&quot;:200,
+                    &quot;error_msg&quot;:&quot;错误提示信息&quot;
+                    }
+        }
+</string>
+	<key>GetBarcodeSearchResult</key>
+	<string>{
+
+
+        &quot;goodsintroduce&quot;: {
+        &quot;store&quot;:0,
+        &quot;consults&quot;:100,
+        &quot;imgdetail&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsid&quot;:&quot;efjejfje&quot;,
+        &quot;goodsname&quot;:&quot;[新品]2013新款 条纹干练正装长袖衬衫 HNHD3K076&quot;,
+        &quot;goodscode&quot;:&quot; HNHD3K076&quot;,
+        &quot;price&quot;:&quot; ¥180.3&quot;,
+        &quot;size&quot;:	[
+        &quot;38|165/84A&quot;,
+        &quot;40|175/92A&quot;
+        ],
+        &quot;colorandimgs&quot;:[{
+        &quot;color&quot;:&quot;黑色&quot;,
+        &quot;imgs&quot;:[ &quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        ]
+        }
+        ],
+        },
+        
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>GetColorBuySearchResult</key>
+	<string>{
+        
+        &quot;goodslist&quot;: [
+        {
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;price&quot;:&quot; ¥180.3&quot;,
+        &quot;color&quot;:&quot;5种&quot;
+        },
+        {
+        &quot;goodsid&quot;:&quot;198897&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;price&quot;:&quot; ¥120.3&quot;,
+        &quot;color&quot;:&quot;100种&quot;
+        },
+        {
+        &quot;goodsid&quot;:&quot;198897&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;price&quot;:&quot; ¥120.3&quot;,
+        &quot;color&quot;:&quot;100种&quot;
+        },
+        {
+        &quot;goodsid&quot;:&quot;198897&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;price&quot;:&quot; ¥120.3&quot;,
+        &quot;color&quot;:&quot;100种&quot;
+        },
+        {
+        &quot;goodsid&quot;:&quot;198897&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;price&quot;:&quot; ¥120.3&quot;,
+        &quot;color&quot;:&quot;100种&quot;
+        },
+        {
+        &quot;goodsid&quot;:&quot;198897&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;price&quot;:&quot; ¥120.3&quot;,
+        &quot;color&quot;:&quot;100种&quot;
+        },
+        {
+        &quot;goodsid&quot;:&quot;198897&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;price&quot;:&quot; ¥120.3&quot;,
+        &quot;color&quot;:&quot;100种&quot;
+        },
+        {
+        &quot;goodsid&quot;:&quot;1981897&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;price&quot;:&quot; ¥120.3&quot;,
+        &quot;color&quot;:&quot;100种&quot;
+        },
+        ],
+        
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>GetShakeSearchResult</key>
+	<string>{
+        
+        &quot;goodslist&quot;: [
+        {
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;price&quot;:&quot; ¥180.3&quot;,
+        &quot;color&quot;:&quot;5种&quot;
+        },
+        ],
+        
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>GetShakeRestrict</key>
+	<string>{
+        &quot;category&quot;:[
+        {
+        &quot;categoryid&quot;:&quot;123&quot;,
+        &quot;categoryname&quot;:&quot;上装&quot;
+        },
+        {
+        &quot;categoryid&quot;:&quot;123&quot;,
+        &quot;categoryname&quot;:&quot;上装&quot;
+        }
+        ],
+        
+        &quot;price&quot;:[
+        {
+        &quot;subspecid&quot;:&quot;123&quot;,
+        &quot;subspecname&quot;:&quot;200内&quot;
+        },
+        {
+        &quot;subspecid&quot;:&quot;123&quot;,
+        &quot;subspecname&quot;:&quot;100内&quot;
+        }
+        ],
+        
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+    </string>
+	<key>PushSetting</key>
+	<string>{
+        
+        &quot;response&quot;: 1,
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>GetPushStatus</key>
+	<string>{
+        
+        &quot;status&quot;: 1,
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>GetHelpInfo</key>
+	<string>{
+        
+        &quot;helplist&quot;: [{
+        &quot;title&quot;:&quot;货到付款区域查询&quot;,
+        &quot;detail&quot;:&quot;fldsajfjdjfdjsfj&quot;
+        },
+        {
+        &quot;title&quot;:&quot;货到付款区域查询&quot;,
+        &quot;detail&quot;:&quot;fldsajfjdjfdjsfj&quot;
+        },
+        {
+        &quot;title&quot;:&quot;货到付款区域查询&quot;,
+        &quot;detail&quot;:&quot;fldsajfjdjfdjsfj&quot;
+        },
+        {
+        &quot;title&quot;:&quot;货到付款区域查询&quot;,
+        &quot;detail&quot;:&quot;fldsajfjdjfdjsfj&quot;
+        },
+        {
+        &quot;title&quot;:&quot;货到付款区域查询&quot;,
+        &quot;detail&quot;:&quot;fldsajfjdjfdjsfj&quot;
+        }
+        ],
+        &quot;servicetel&quot;:&quot;客服热线&quot;,
+        &quot;jointel&quot;:[&quot;加盟热线1&quot;,
+        &quot;加盟热线2&quot;,
+        ],
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>CustomerFeedback</key>
+	<string>{
+        &quot;response&quot;: 1,
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>ModifyCustomerInfo</key>
+	<string>{
+        &quot;response&quot;: 1,
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>OrderRemindedList</key>
+	<string>{
+        
+        &quot;reminded&quot;: [{
+        &quot;date&quot;:&quot;2013-10-12 14:30&quot;,
+        &quot;content&quot;:&quot;您的订单号为:6542130的订单下单未支付,已经失效&quot;
+        },
+        {
+        &quot;date&quot;:&quot;2013-10-12 14:30&quot;,
+        &quot;content&quot;:&quot;您的订单号为:6542130的订单下单未支付,已经失效&quot;
+        },
+        {
+        &quot;date&quot;:&quot;2013-10-12 14:30&quot;,
+        &quot;content&quot;:&quot;您的订单号为:6542130的订单下单未支付,已经失效&quot;
+        },
+        {
+        &quot;date&quot;:&quot;2013-10-12 14:30&quot;,
+        &quot;content&quot;:&quot;您的订单号为:6542130的订单下单未支付,已经失效&quot;
+        }
+        ],
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>MyOrderList</key>
+	<string>{
+        
+        &quot;orderlist&quot;: [{
+        &quot;ordernumber&quot;:&quot;135131145454&quot;,
+        &quot;amount&quot;:&quot; ￥342.00&quot;,
+        &quot;orderdate&quot;:&quot; 2013-10-22 12:30:30&quot;,
+        &quot;orderstatus&quot;:0,
+        &quot;deliverstatus&quot;:1,
+        &quot;paystatus&quot;:2,
+        },
+        {
+        &quot;ordernumber&quot;:&quot;135131145454&quot;,
+        &quot;amount&quot;:&quot; ￥342.00&quot;,
+        &quot;orderdate&quot;:&quot; 2013-10-22 12:30:30&quot;,
+        &quot;orderstatus&quot;:0,
+        &quot;deliverstatus&quot;:1,
+        &quot;paystatus&quot;:2,
+        },
+        {
+        &quot;ordernumber&quot;:&quot;135131145454&quot;,
+        &quot;amount&quot;:&quot; ￥342.00&quot;,
+        &quot;orderdate&quot;:&quot; 2013-10-22 12:30:30&quot;,
+        &quot;orderstatus&quot;:0,
+        &quot;deliverstatus&quot;:1,
+        &quot;paystatus&quot;:2,
+        },
+        {
+        &quot;ordernumber&quot;:&quot;135131145454&quot;,
+        &quot;amount&quot;:&quot; ￥342.00&quot;,
+        &quot;orderdate&quot;:&quot; 2013-10-22 12:30:30&quot;,
+        &quot;orderstatus&quot;:0,
+        &quot;deliverstatus&quot;:1,
+        &quot;paystatus&quot;:2,
+        }
+        ],
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>MyOrderDetail</key>
+	<string>{
+        &quot;orderdetail&quot;: {
+        &quot;ordernumber&quot;:&quot;41314545645&quot;,
+        &quot;orderstatus&quot;:&quot;有效待支付&quot;,
+        &quot;deliverby&quot;:&quot;送货方式&quot;,
+        &quot;payby&quot;:&quot;支付方式&quot;,
+        &quot;orderdate&quot;:&quot;订单生成日期&quot;,
+        &quot;deliverstatus&quot;:&quot;已经发货&quot;,
+        &quot;needinvoice&quot;:&quot;否&quot;
+        },
+        &quot;receiver&quot;:{
+        &quot;name&quot;:&quot;张三&quot;,
+        &quot;tel&quot;:&quot;13612345678&quot;,
+        &quot;address&quot;:&quot;深圳市福田区车公庙泰然七路&quot;,
+        &quot;mailcode&quot;:&quot;518000&quot;
+        },
+        &quot;availabledate&quot;:&quot;只双休日、节假日送货（工作日不送货）&quot;,
+        &quot;goodslist&quot;: [
+        {
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;price&quot;:&quot; ¥180.3&quot;,
+        &quot;color&quot;:&quot;黑色&quot;,
+        &quot;size&quot;:&quot;180/104A(43)&quot;
+        },
+        {
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;price&quot;:&quot; ¥180.3&quot;,
+        &quot;color&quot;:&quot;黑色&quot;,
+        &quot;size&quot;:&quot;180/104A(43)&quot;
+        },
+        {
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;price&quot;:&quot; ¥180.3&quot;,
+        &quot;color&quot;:&quot;黑色&quot;,
+        &quot;size&quot;:&quot;180/104A(43)&quot;
+        }
+        ],
+        &quot;description&quot;:{
+        &quot;count&quot;:&quot;2件&quot;,
+        &quot;score&quot;:&quot;赠送积分总计&quot;,
+        &quot;goodsfee&quot;:&quot;商品金额总计&quot;,
+        &quot;deliverfee&quot;:&quot;运费金额&quot;,
+        &quot;tradeticket&quot;:&quot;抵用券&quot;,
+        &quot;moneyticket&quot;:&quot;现金券&quot;,
+        &quot;total&quot;:&quot;应付总额&quot;
+        },
+        
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+        
+</string>
+	<key>CancelOrder</key>
+	<string>{
+        &quot;response&quot;:1,
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>GetMySaveList</key>
+	<string>{
+        &quot;goodslist&quot;: [
+        {
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;price&quot;:&quot; ¥180.3&quot;,
+        &quot;color&quot;:&quot;有5种&quot;,
+        },
+        {
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;price&quot;:&quot; ¥180.3&quot;,
+        &quot;color&quot;:&quot;有5种&quot;,
+        },
+        {
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;price&quot;:&quot; ¥180.3&quot;,
+        &quot;color&quot;:&quot;有5种&quot;,
+        },
+        {
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;price&quot;:&quot; ¥180.3&quot;,
+        &quot;color&quot;:&quot;有5种&quot;,
+        },
+        ],
+        
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>DeleteSaving</key>
+	<string>{
+        &quot;response&quot;:1,
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>AddingAddress</key>
+	<string>{
+        &quot;response&quot;:1,
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>GetAddressList</key>
+	<string>{
+        &quot;addrssslist&quot;:[{
+        &quot;addressid&quot;:&quot;12345&quot;,
+        &quot;name&quot;:&quot;张三&quot;,
+        &quot;tel&quot;:&quot;13612345678&quot;,
+        &quot;area&quot;:&quot;广东深圳福田&quot;,
+        &quot;address&quot;:&quot;车公庙泰然七路苍松大厦南座22楼&quot;,
+        &quot;isdefault&quot;:1
+        },
+        {
+        &quot;addressid&quot;:&quot;12345&quot;,
+        &quot;name&quot;:&quot;李四&quot;,
+        &quot;tel&quot;:&quot;13612345678&quot;,
+        &quot;area&quot;:&quot;广东深圳福田&quot;,
+        &quot;address&quot;:&quot;车公庙泰然七路苍松大厦南座22楼&quot;,
+        &quot;isdefault&quot;:0
+        },
+        {
+        &quot;addressid&quot;:&quot;12345&quot;,
+        &quot;name&quot;:&quot;王二麻子&quot;,
+        &quot;tel&quot;:&quot;13612345678&quot;,
+        &quot;area&quot;:&quot;广东深圳福田&quot;,
+        &quot;address&quot;:&quot;车公庙泰然七路苍松大厦南座22楼&quot;,
+        &quot;isdefault&quot;:0
+        },
+        {
+        &quot;addressid&quot;:&quot;12345&quot;,
+        &quot;name&quot;:&quot;欧阳峰&quot;,
+        &quot;tel&quot;:&quot;13612345678&quot;,
+        &quot;area&quot;:&quot;广东深圳福田&quot;,
+        &quot;address&quot;:&quot;车公庙泰然七路苍松大厦南座22楼&quot;,
+        &quot;isdefault&quot;:0
+        }
+        ],
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>ModifyAddress</key>
+	<string>{
+        &quot;response&quot;:1,
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>DelAndSetDefaultAddress</key>
+	<string>{
+        &quot;response&quot;:1,
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>ShoppingTicketInfo</key>
+	<string>{
+        &quot;rule&quot;:&quot;现金券使用规则描述&quot;,
+        &quot;ticketlist&quot;:[{
+        &quot;cardnum&quot;:&quot;23233231&quot;,
+        &quot;amount&quot;:&quot;120&quot;,
+        &quot;usingdate&quot;:&quot;2013年10月1日&quot;,
+        &quot;ordernumber&quot;:&quot;454654545&quot;,
+        &quot;expireddate&quot;:&quot;2013年10月1日&quot;,
+        &quot;status&quot;:&quot;有效&quot;
+        },
+        {
+        &quot;cardnum&quot;:&quot;23233232&quot;,
+        &quot;amount&quot;:&quot;120&quot;,
+        &quot;usingdate&quot;:&quot;2013年10月1日&quot;,
+        &quot;ordernumber&quot;:&quot;454654545&quot;,
+        &quot;expireddate&quot;:&quot;2013年10月1日&quot;,
+        &quot;status&quot;:&quot;有效&quot;
+        },
+        {
+        &quot;cardnum&quot;:&quot;23233233&quot;,
+        &quot;amount&quot;:&quot;120&quot;,
+        &quot;usingdate&quot;:&quot;2013年10月1日&quot;,
+        &quot;ordernumber&quot;:&quot;454654545&quot;,
+        &quot;expireddate&quot;:&quot;2013年10月1日&quot;,
+        &quot;status&quot;:&quot;有效&quot;
+        },
+        {
+        &quot;cardnum&quot;:&quot;23233234&quot;,
+        &quot;amount&quot;:&quot;120&quot;,
+        &quot;usingdate&quot;:&quot;2013年10月1日&quot;,
+        &quot;ordernumber&quot;:&quot;454654545&quot;,
+        &quot;expireddate&quot;:&quot;2013年10月1日&quot;,
+        &quot;status&quot;:&quot;有效&quot;
+        },
+        {
+        &quot;cardnum&quot;:&quot;23233235&quot;,
+        &quot;amount&quot;:&quot;120&quot;,
+        &quot;usingdate&quot;:&quot;2013年10月1日&quot;,
+        &quot;ordernumber&quot;:&quot;454654545&quot;,
+        &quot;expireddate&quot;:&quot;2013年10月1日&quot;,
+        &quot;status&quot;:&quot;有效&quot;
+        }
+        ],
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }</string>
+	<key>BindShoppingTicket</key>
+	<string>{
+        &quot;response&quot;:2,
+        &quot;failmsg&quot;:&quot;重复绑定&quot;,
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>ScoreInfo</key>
+	<string>{
+        &quot;rule&quot;:&quot;积分使用规则描述&quot;,
+        &quot;totalscore&quot;:&quot;88888.00分&quot;,
+        &quot;recored&quot;:[{
+        &quot;date&quot;:&quot;2013-10-10 16:10:10&quot;,
+        &quot;detail&quot;:&quot;获得500积分&quot;
+        },
+        {
+        &quot;date&quot;:&quot;2013-10-10 16:10:10&quot;,
+        &quot;detail&quot;:&quot;获得500积分&quot;
+        },
+        {
+        &quot;date&quot;:&quot;2013-10-10 16:10:10&quot;,
+        &quot;detail&quot;:&quot;获得500积分&quot;
+        },
+        {
+        &quot;date&quot;:&quot;2013-10-10 16:10:10&quot;,
+        &quot;detail&quot;:&quot;获得500积分&quot;
+        }
+        ],
+        
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>MyCommentList</key>
+	<string>{
+		&quot;list&quot;: [{
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;ordergoodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;sizeandcolor&quot;:&quot; 颜色:黑色 尺码:41&quot;,
+        &quot;buydate&quot;:&quot;2013/09/25&quot;,
+        &quot;score&quot;:4,
+        &quot;comment&quot;:&quot;不错,挺好的&quot;,
+        &quot;ordernumber&quot;:&quot;4j4jtjt&quot;,
+        },
+        {
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;ordergoodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;sizeandcolor&quot;:&quot; 颜色:黑色 尺码:41&quot;,
+        &quot;buydate&quot;:&quot;2013/09/25&quot;,
+        &quot;score&quot;:4,
+        &quot;comment&quot;:&quot;不错,挺好的&quot;,
+        &quot;ordernumber&quot;:&quot;4j4jtjt&quot;,
+        },
+        {
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;ordergoodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;sizeandcolor&quot;:&quot; 颜色:黑色 尺码:41&quot;,
+        &quot;buydate&quot;:&quot;2013/09/25&quot;,
+        &quot;score&quot;:4,
+        &quot;comment&quot;:&quot;不错,挺好的&quot;,
+        &quot;ordernumber&quot;:&quot;4j4jtjt&quot;,
+        },
+        {
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;ordergoodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;sizeandcolor&quot;:&quot; 颜色:黑色 尺码:41&quot;,
+        &quot;buydate&quot;:&quot;2013/09/25&quot;,
+        &quot;score&quot;:4,
+        &quot;comment&quot;:&quot;不错,挺好的&quot;,
+        &quot;ordernumber&quot;:&quot;4j4jtjt&quot;,
+        },
+        ],
+        
+        
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>PublishComment</key>
+	<string>{
+ 		&quot;response&quot;:1,
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>ShowOrderList</key>
+	<string>{
+        
+        &quot;showorderlist&quot;: [{
+        &quot;username&quot;:&quot;123&quot;,
+        &quot;title&quot;:&quot;海澜之家&quot;,
+        &quot;date&quot;:&quot;晒单时间&quot;,
+        &quot;content&quot;:&quot;内容&quot;,
+        &quot;thumbnailimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;imgarray&quot;:[&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;
+        ]
+        },
+        {
+        &quot;username&quot;:&quot;123&quot;,
+        &quot;title&quot;:&quot;海澜之家&quot;,
+        &quot;date&quot;:&quot;晒单时间&quot;,
+        &quot;content&quot;:&quot;内容&quot;,
+        &quot;thumbnailimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;imgarray&quot;:[&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;
+        ]
+        },
+        {
+        &quot;username&quot;:&quot;123&quot;,
+        &quot;title&quot;:&quot;海澜之家&quot;,
+        &quot;date&quot;:&quot;晒单时间&quot;,
+        &quot;content&quot;:&quot;内容&quot;,
+        &quot;thumbnailimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;imgarray&quot;:[&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;
+        ]
+        }
+        ],
+		
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>MyShowOrder</key>
+	<string>{
+		&quot;orderlist&quot;: [{
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;ordergoodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;sizeandcolor&quot;:&quot; 颜色:黑色 尺码:41&quot;,
+        &quot;buydate&quot;:&quot;2013/09/25&quot;,
+        &quot;imgarray&quot;:[&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;
+        ],
+        &quot;comment&quot;:&quot;不错,挺好的&quot;
+        },
+        {
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;ordergoodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;sizeandcolor&quot;:&quot; 颜色:黑色 尺码:41&quot;,
+        &quot;buydate&quot;:&quot;2013/09/25&quot;,
+        &quot;imgarray&quot;:[&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;
+        ],
+        &quot;comment&quot;:&quot;不错,挺好的&quot;
+        },
+        {
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;ordergoodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;sizeandcolor&quot;:&quot; 颜色:黑色 尺码:41&quot;,
+        &quot;buydate&quot;:&quot;2013/09/25&quot;,
+        &quot;imgarray&quot;:[&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;
+        ],
+        &quot;comment&quot;:&quot;不错,挺好的&quot;
+        },
+        {
+        &quot;goodsid&quot;:&quot;123&quot;,
+        &quot;ordergoodsid&quot;:&quot;123&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;sizeandcolor&quot;:&quot; 颜色:黑色 尺码:41&quot;,
+        &quot;buydate&quot;:&quot;2013/09/25&quot;,
+        &quot;imgarray&quot;:[&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;
+        ],
+        &quot;comment&quot;:&quot;不错,挺好的&quot;
+        },
+        ],
+        
+        
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>PublishShowOrder</key>
+	<string>{
+ 		&quot;response&quot;:1,
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>GetCustomerInfo</key>
+	<string>{
+        
+        &quot;personinfo&quot;:{		&quot;imgurl&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;name&quot;:&quot;张三&quot;,
+        &quot;nickname&quot;:&quot;昵称&quot;,
+        &quot;sex&quot;:&quot;男&quot;,
+        &quot;birthday&quot;:&quot;2013-12-12&quot;,
+        &quot;city&quot;:&quot; 广东 深圳 福田区&quot;,
+        &quot;mobile&quot;:&quot;13112345678&quot;,
+        &quot;tel&quot;:&quot;075512356&quot;,
+        &quot;qq&quot;:&quot;123435&quot;,
+        &quot;email&quot;:&quot;123@qq.com&quot;,
+        &quot;acounttype&quot;:1,
+        &quot;totalconsume&quot;:&quot;1233&quot;,
+        &quot;balance&quot;:&quot;345&quot;,
+        &quot;score&quot;:&quot;123.0&quot;
+        },
+        
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>GetOrderDeliverDetail</key>
+	<string>{
+        &quot;deliverlist&quot;: [{
+        &quot;date&quot;:&quot;2013-10-12 14:30&quot;,
+        &quot;content&quot;:&quot;物流明细&quot;
+        },
+        {
+        &quot;date&quot;:&quot;2013-10-12 14:30&quot;,
+        &quot;content&quot;:&quot;物流明细&quot;
+        },
+        {
+        &quot;date&quot;:&quot;2013-10-12 14:30&quot;,
+        &quot;content&quot;:&quot;物流明细&quot;
+        },
+        {
+        &quot;date&quot;:&quot;2013-10-12 14:30&quot;,
+        &quot;content&quot;:&quot;物流明细&quot;
+        },
+        ],
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>UploadPersonalPic</key>
+	<string>{
+        &quot;response&quot;:1,
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>GetShoppingCarInfo</key>
+	<string>{
+ 		&quot;selectcount&quot;:3,
+		&quot;goodsfee&quot;:&quot;￥588.0&quot;,
+		&quot;discount&quot;:&quot;￥20.0&quot;,
+		&quot;total&quot;:&quot;￥568&quot;,
+		&quot;discountinfo&quot;:[  &quot;订单享满500赠送礼品优惠&quot;,
+        &quot;享受满200加10元赠送礼品优惠&quot;,
+        ],
+        &quot;presentationinfo&quot;:&quot;2个赠品可以领取&quot;,
+		&quot;goodslist&quot;:[
+        [{
+        &quot;goodsid&quot;:&quot;1&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;size&quot;:&quot;180/104A&quot;,
+        &quot;color&quot;:&quot;5种&quot;,
+        &quot;price&quot;:&quot;￥288.0&quot;,
+        &quot;discountprice&quot;:&quot;10&quot;,
+        &quot;isselect&quot;:0,
+        &quot;count&quot;:2
+        },
+        {
+        &quot;goodsid&quot;:&quot;1&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;size&quot;:&quot;180/104A&quot;,
+        &quot;color&quot;:&quot;5种&quot;,
+        &quot;price&quot;:&quot;￥288.0&quot;,
+        &quot;discountprice&quot;:&quot;10&quot;,
+        &quot;isselect&quot;:0,
+        &quot;count&quot;:2
+        },
+        ],
+        [{
+        &quot;goodsid&quot;:&quot;1&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;size&quot;:&quot;180/104A&quot;,
+        &quot;color&quot;:&quot;5种&quot;,
+        &quot;price&quot;:&quot;￥288.0&quot;,
+        &quot;discountprice&quot;:&quot;10&quot;,
+        &quot;isselect&quot;:0,
+        &quot;count&quot;:2
+        },
+        {
+        &quot;goodsid&quot;:&quot;1&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;size&quot;:&quot;180/104A&quot;,
+        &quot;color&quot;:&quot;5种&quot;,
+        &quot;price&quot;:&quot;￥288.0&quot;,
+        &quot;discountprice&quot;:&quot;10&quot;,
+        &quot;isselect&quot;:0,
+        &quot;count&quot;:2
+        },
+        ],
+        [{
+        &quot;goodsid&quot;:&quot;2&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;size&quot;:&quot;180/104A&quot;,
+        &quot;color&quot;:&quot;5种&quot;,
+        &quot;price&quot;:&quot;￥288.0&quot;,
+        &quot;discountprice&quot;:&quot;10&quot;,
+        &quot;isselect&quot;:0,
+        &quot;count&quot;:1
+        }]
+		],
+		
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>CommitOrder</key>
+	<string>{
+ 		&quot;response&quot;:1,
+		&quot;failreason&quot;:&quot;订单物品数目出现错误&quot;,
+		&quot;ordernumber&quot;:&quot;856454648856542&quot;,
+		&quot;orderfee&quot;:&quot;￥249.00&quot;,
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>AddToShoppingCar</key>
+	<string>{
+ 		&quot;response&quot;:1,
+		&quot;totalcount&quot;:5,
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>ShoppingCarDel</key>
+	<string>{
+ 		&quot;selectcount&quot;:3,
+		&quot;goodsfee&quot;:&quot;￥588.0&quot;,
+		&quot;discount&quot;:&quot;￥20.0&quot;,
+		&quot;total&quot;:&quot;￥568&quot;,
+		&quot;discountinfo&quot;:[  &quot;订单享满500赠送礼品优惠&quot;,
+        &quot;享受满200加10元赠送礼品优惠&quot;,
+        ],
+        &quot;presentationinfo&quot;:&quot;2个赠品可以领取&quot;,
+		&quot;goodslist&quot;:[
+        [{
+        &quot;goodsid&quot;:&quot;1&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;size&quot;:&quot;180/104A&quot;,
+        &quot;color&quot;:&quot;5种&quot;,
+        &quot;price&quot;:&quot;￥288.0&quot;,
+        &quot;discountprice&quot;:&quot;10&quot;,
+        &quot;isselect&quot;:0,
+        &quot;count&quot;:2
+        },
+        {
+        &quot;goodsid&quot;:&quot;1&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;size&quot;:&quot;180/104A&quot;,
+        &quot;color&quot;:&quot;5种&quot;,
+        &quot;price&quot;:&quot;￥288.0&quot;,
+        &quot;discountprice&quot;:&quot;10&quot;,
+        &quot;isselect&quot;:0,
+        &quot;count&quot;:2
+        },
+        ],
+        [{
+        &quot;goodsid&quot;:&quot;1&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;size&quot;:&quot;180/104A&quot;,
+        &quot;color&quot;:&quot;5种&quot;,
+        &quot;price&quot;:&quot;￥288.0&quot;,
+        &quot;discountprice&quot;:&quot;10&quot;,
+        &quot;isselect&quot;:0,
+        &quot;count&quot;:2
+        },
+        {
+        &quot;goodsid&quot;:&quot;1&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;size&quot;:&quot;180/104A&quot;,
+        &quot;color&quot;:&quot;5种&quot;,
+        &quot;price&quot;:&quot;￥288.0&quot;,
+        &quot;discountprice&quot;:&quot;10&quot;,
+        &quot;isselect&quot;:0,
+        &quot;count&quot;:2
+        },
+        ],
+        [{
+        &quot;goodsid&quot;:&quot;2&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;size&quot;:&quot;180/104A&quot;,
+        &quot;color&quot;:&quot;5种&quot;,
+        &quot;price&quot;:&quot;￥288.0&quot;,
+        &quot;discountprice&quot;:&quot;10&quot;,
+        &quot;isselect&quot;:0,
+        &quot;count&quot;:1
+        }]
+		],
+		
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+
+</string>
+	<key>ShoppingCarModify</key>
+	<string>{
+ 		&quot;selectcount&quot;:3,
+		&quot;goodsfee&quot;:&quot;￥588.0&quot;,
+		&quot;discount&quot;:&quot;￥20.0&quot;,
+		&quot;total&quot;:&quot;￥568&quot;,
+		&quot;discountinfo&quot;:[  &quot;订单享满500赠送礼品优惠&quot;,
+        &quot;享受满200加10元赠送礼品优惠&quot;,
+        ],
+        &quot;presentationinfo&quot;:&quot;2个赠品可以领取&quot;,
+		&quot;goodslist&quot;:[
+        [{
+        &quot;goodsid&quot;:&quot;1&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;size&quot;:&quot;180/104A&quot;,
+        &quot;color&quot;:&quot;5种&quot;,
+        &quot;price&quot;:&quot;￥288.0&quot;,
+        &quot;discountprice&quot;:&quot;10&quot;,
+        &quot;isselect&quot;:1,
+        &quot;count&quot;:2
+        },
+        {
+        &quot;goodsid&quot;:&quot;1&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;size&quot;:&quot;180/104A&quot;,
+        &quot;color&quot;:&quot;5种&quot;,
+        &quot;price&quot;:&quot;￥288.0&quot;,
+        &quot;discountprice&quot;:&quot;10&quot;,
+        &quot;isselect&quot;:1,
+        &quot;count&quot;:2
+        },
+        ],
+        [{
+        &quot;goodsid&quot;:&quot;1&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;size&quot;:&quot;180/104A&quot;,
+        &quot;color&quot;:&quot;5种&quot;,
+        &quot;price&quot;:&quot;￥288.0&quot;,
+        &quot;discountprice&quot;:&quot;10&quot;,
+        &quot;isselect&quot;:0,
+        &quot;count&quot;:2
+        },
+        {
+        &quot;goodsid&quot;:&quot;1&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;size&quot;:&quot;180/104A&quot;,
+        &quot;color&quot;:&quot;5种&quot;,
+        &quot;price&quot;:&quot;￥288.0&quot;,
+        &quot;discountprice&quot;:&quot;10&quot;,
+        &quot;isselect&quot;:0,
+        &quot;count&quot;:2
+        },
+        ],
+        [{
+        &quot;goodsid&quot;:&quot;2&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;size&quot;:&quot;180/104A&quot;,
+        &quot;color&quot;:&quot;5种&quot;,
+        &quot;price&quot;:&quot;￥288.0&quot;,
+        &quot;discountprice&quot;:&quot;10&quot;,
+        &quot;isselect&quot;:0,
+        &quot;count&quot;:1
+        }]
+		],
+		
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }</string>
+	<key>ShoppingCarGoodsSelection</key>
+	<string>{
+ 		&quot;selectcount&quot;:3,
+		&quot;goodsfee&quot;:&quot;￥588.0&quot;,
+		&quot;discount&quot;:&quot;￥20.0&quot;,
+		&quot;total&quot;:&quot;￥568&quot;,
+		&quot;discountinfo&quot;:[  &quot;订单享满500赠送礼品优惠&quot;,
+        &quot;享受满200加10元赠送礼品优惠&quot;,
+        ],
+        &quot;presentationinfo&quot;:&quot;2个赠品可以领取&quot;,
+        &quot;goodslist&quot;:[
+        [{
+        &quot;goodsid&quot;:&quot;1&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;size&quot;:&quot;180/104A&quot;,
+        &quot;color&quot;:&quot;5种&quot;,
+        &quot;price&quot;:&quot;￥288.0&quot;,
+        &quot;discountprice&quot;:&quot;10&quot;,
+        &quot;isselect&quot;:1,
+        &quot;count&quot;:2
+        },
+        {
+        &quot;goodsid&quot;:&quot;1&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;size&quot;:&quot;180/104A&quot;,
+        &quot;color&quot;:&quot;5种&quot;,
+        &quot;price&quot;:&quot;￥288.0&quot;,
+        &quot;discountprice&quot;:&quot;10&quot;,
+        &quot;isselect&quot;:1,
+        &quot;count&quot;:2
+        },
+        ],
+        [{
+        &quot;goodsid&quot;:&quot;1&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;size&quot;:&quot;180/104A&quot;,
+        &quot;color&quot;:&quot;5种&quot;,
+        &quot;price&quot;:&quot;￥288.0&quot;,
+        &quot;discountprice&quot;:&quot;10&quot;,
+        &quot;isselect&quot;:1,
+        &quot;count&quot;:2
+        },
+        {
+        &quot;goodsid&quot;:&quot;1&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;size&quot;:&quot;180/104A&quot;,
+        &quot;color&quot;:&quot;5种&quot;,
+        &quot;price&quot;:&quot;￥288.0&quot;,
+        &quot;discountprice&quot;:&quot;10&quot;,
+        &quot;isselect&quot;:1,
+        &quot;count&quot;:2
+        },
+        ],
+        [{
+        &quot;goodsid&quot;:&quot;2&quot;,
+        &quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;size&quot;:&quot;180/104A&quot;,
+        &quot;color&quot;:&quot;5种&quot;,
+        &quot;price&quot;:&quot;￥288.0&quot;,
+        &quot;discountprice&quot;:&quot;10&quot;,
+        &quot;isselect&quot;:1,
+        &quot;count&quot;:1
+        }]
+		],
+        
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }</string>
+	<key>ShoppingCarPresentationList</key>
+	<string>{
+        &quot;presentationlist&quot;:[{&quot;presentationinfo&quot;:&quot;专题活动买赠&quot;,
+        &quot;specialid&quot;:&quot;123&quot;,
+        &quot;goodsinfo&quot;:[{&quot;goodsid&quot;:&quot;123&quot;,									 						&quot;goodsimg&quot;:&quot;http://d.hiphotos.baidu.com/image/w%3D2048/sign=f9370e234b90f60304b09b470d2ab21b/10dfa9ec8a13632711654021908fa0ec08fac71c.jpg&quot;,
+        &quot;goodsname&quot;:&quot;商品名称&quot;,
+        &quot;sizearray&quot;:[ &quot;38|165/84A&quot;,
+        &quot;40|175/92A&quot;
+        ],
+        &quot;colorarray&quot;:[&quot;黑色&quot;,
+        &quot;白色&quot;,
+        ],
+        &quot;isselect&quot;:0,
+        &quot;selectsize&quot;:&quot;38|165&quot;,
+        &quot;selectcolor&quot;:&quot;白色&quot;
+        }
+        ]
+        }
+        ],
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>ShoppingCarCommitPresentation</key>
+	<string>{
+ 		&quot;selectcount&quot;:3,
+		&quot;goodsfee&quot;:&quot;￥588.0&quot;,
+		&quot;discount&quot;:&quot;￥20.0&quot;,
+		&quot;total&quot;:&quot;￥568&quot;,
+		&quot;discountinfo&quot;:[  &quot;订单享满500赠送礼品优惠&quot;,
+        &quot;享受满200加10元赠送礼品优惠&quot;,
+        ],
+        &quot;presentationinfo&quot;:&quot;2个赠品可以领取,已经领取1个赠品&quot;,
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>GoodsSettleUp</key>
+	<string>{
+ 		&quot;response&quot;:1,
+		&quot;selectcount&quot;:3,
+		&quot;score&quot;:&quot;100&quot;,
+		&quot;goodsfee&quot;:&quot;500&quot;,
+		&quot;deliverfee&quot;:&quot;10&quot;,
+		&quot;total&quot;:&quot;510&quot;,
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>GetPayType</key>
+	<string>{
+ 		&quot;paytype&quot;:[ {&quot;name&quot;:&quot;支付宝支付&quot;,
+        &quot;typeid&quot;:1
+        },
+        {&quot;name&quot;:&quot;货到付款&quot;,
+        &quot;typeid&quot;:2
+        },
+        ],
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>GetUseableShoppingTicket</key>
+	<string>{
+        &quot;rule&quot;:&quot;现金券使用规则描述&quot;,
+ 		&quot;ticketlist&quot;: [{
+        &quot;cardnum&quot;:&quot;23233233&quot;,
+        &quot;amount&quot;:&quot;120&quot;,
+        &quot;usingdate&quot;:&quot;2013年10月1日&quot;,
+        &quot;status&quot;:&quot;有效&quot;
+        },
+        {
+        &quot;cardnum&quot;:&quot;23233233&quot;,
+        &quot;amount&quot;:&quot;120&quot;,
+        &quot;usingdate&quot;:&quot;2013年10月1日&quot;,
+        &quot;status&quot;:&quot;有效&quot;
+        },
+        {
+        &quot;cardnum&quot;:&quot;23233233&quot;,
+        &quot;amount&quot;:&quot;120&quot;,
+        &quot;usingdate&quot;:&quot;2013年10月1日&quot;,
+        &quot;status&quot;:&quot;有效&quot;
+        }
+        ],
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>Register</key>
+	<string>{
+ 		&quot;response&quot;:1,
+		&quot;personinfo&quot;:{
+        &quot;userid&quot;:&quot;3573fhd&quot;,
+        &quot;token&quot;:&quot;resing12365&quot;
+        },
+        
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>Login</key>
+	<string>{
+        &quot;response&quot;:1,
+        &quot;personinfo&quot;:{
+        &quot;userid&quot;:&quot;3573fhd&quot;,
+        &quot;token&quot;:&quot;123hupeng&quot;,
+        &quot;totalcount&quot;:5
+        },
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>ForgetPasswd</key>
+	<string>{
+ 		&quot;response&quot;:1,
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>GetAnonymityID</key>
+	<string>{
+ 		&quot;anonymityid&quot;:&quot;fjdfjejfe&quot;,
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }
+</string>
+	<key>Logout</key>
+	<string>{
+ 		&quot;response&quot;:1,
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }</string>
+	<key>ChangePassword</key>
+	<string>{
+ 		&quot;response&quot;:1,
+        &quot;result&quot;:{
+        &quot;error_code&quot;:200,
+        &quot;error_msg&quot;:&quot;错误提示信息&quot;
+        }
+        }</string>
+</dict>
+</plist>

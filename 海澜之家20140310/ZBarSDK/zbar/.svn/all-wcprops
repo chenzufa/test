@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/ZBarSDK/zbar
+END
+Scanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/ZBarSDK/zbar/Scanner.h
+END
+ImageScanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/ZBarSDK/zbar/ImageScanner.h
+END
+Exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/ZBarSDK/zbar/Exception.h
+END
+Processor.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/ZBarSDK/zbar/Processor.h
+END
+Image.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/ZBarSDK/zbar/Image.h
+END
+Decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/ZBarSDK/zbar/Decoder.h
+END
+Symbol.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/ZBarSDK/zbar/Symbol.h
+END
+Video.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/ZBarSDK/zbar/Video.h
+END
+Window.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/ZBarSDK/zbar/Window.h
+END

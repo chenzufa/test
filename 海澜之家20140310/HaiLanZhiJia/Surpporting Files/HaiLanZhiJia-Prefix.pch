@@ -1,0 +1,30 @@
+//
+// Prefix header for all source files of the 'HaiLanZhiJia' target in the 'HaiLanZhiJia' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "NSObject+ToolClass.h"
+    #import "UIImageView+WebCache.h"
+    #import "UIButton+WebCache.h"
+    #import "MBProgressHUD+Add.h"
+    #import "UIViewController+Hud.h"
+    #import "WCAlertView.h"
+    #import "MMDrawerController+HLAPush.h"
+    #import "NSDictionary+SafeExtension.h"  //处理数据返回为NSNULL
+    #import "WatchDog.h"
+#endif
+
+//zx nslog只在调试版出现
+//#ifndef __OPTIMIZE__
+//#define NSLog(...) NSLog(__VA_ARGS__)
+//#else
+//#define NSLog(...) {}
+//#endif

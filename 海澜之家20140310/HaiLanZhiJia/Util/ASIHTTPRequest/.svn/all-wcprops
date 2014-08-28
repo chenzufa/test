@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Util/ASIHTTPRequest
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Util/ASIHTTPRequest/ASIHTTPRequest.m
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Util/ASIHTTPRequest/ASINetworkQueue.h
+END
+ASICacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Util/ASIHTTPRequest/ASICacheDelegate.h
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Util/ASIHTTPRequest/ASIProgressDelegate.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Util/ASIHTTPRequest/ASIAuthenticationDialog.h
+END
+ASIDataDecompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Util/ASIHTTPRequest/ASIDataDecompressor.h
+END
+ASIDownloadCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Util/ASIHTTPRequest/ASIDownloadCache.m
+END
+Reachability.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Util/ASIHTTPRequest/Reachability.h
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Util/ASIHTTPRequest/ASINetworkQueue.m
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Util/ASIHTTPRequest/ASIAuthenticationDialog.m
+END
+ASIDataDecompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Util/ASIHTTPRequest/ASIDataDecompressor.m
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Util/ASIHTTPRequest/ASIFormDataRequest.h
+END
+Reachability.m
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Util/ASIHTTPRequest/Reachability.m
+END
+ASI文档-缓存.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Util/ASIHTTPRequest/ASI%E6%96%87%E6%A1%A3-%E7%BC%93%E5%AD%98.h
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Util/ASIHTTPRequest/ASIFormDataRequest.m
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Util/ASIHTTPRequest/ASIInputStream.h
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Util/ASIHTTPRequest/ASIHTTPRequestConfig.h
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Util/ASIHTTPRequest/ASIInputStream.m
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Util/ASIHTTPRequest/ASIHTTPRequestDelegate.h
+END
+ASI需要加入的类库
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Util/ASIHTTPRequest/ASI%E9%9C%80%E8%A6%81%E5%8A%A0%E5%85%A5%E7%9A%84%E7%B1%BB%E5%BA%93
+END
+ASIDataCompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Util/ASIHTTPRequest/ASIDataCompressor.h
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Util/ASIHTTPRequest/ASIHTTPRequest.h
+END
+ASIDownloadCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Util/ASIHTTPRequest/ASIDownloadCache.h
+END
+ASIDataCompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Util/ASIHTTPRequest/ASIDataCompressor.m
+END

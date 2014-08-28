@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/iflyMSC.framework/Headers
+END
+IFlyDataUploader.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/iflyMSC.framework/Headers/IFlyDataUploader.h
+END
+IFlySpeechUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/iflyMSC.framework/Headers/IFlySpeechUser.h
+END
+IFlyDataDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/iflyMSC.framework/Headers/IFlyDataDownloader.h
+END
+IFlySpeechRecognizerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/iflyMSC.framework/Headers/IFlySpeechRecognizerDelegate.h
+END
+IFlySpeechSynthesizerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/iflyMSC.framework/Headers/IFlySpeechSynthesizerDelegate.h
+END
+IFlyContact.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/iflyMSC.framework/Headers/IFlyContact.h
+END
+IFlySetting.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/iflyMSC.framework/Headers/IFlySetting.h
+END
+IFlyUserWords.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/iflyMSC.framework/Headers/IFlyUserWords.h
+END
+IFlySpeechRecognizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/iflyMSC.framework/Headers/IFlySpeechRecognizer.h
+END
+IFlySpeechSynthesizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/iflyMSC.framework/Headers/IFlySpeechSynthesizer.h
+END
+IFlySpeechError.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/iflyMSC.framework/Headers/IFlySpeechError.h
+END

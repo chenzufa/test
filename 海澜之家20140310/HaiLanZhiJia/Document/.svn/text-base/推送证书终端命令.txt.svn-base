@@ -1,0 +1,12 @@
+a:
+openssl x509 -in aps_development.cer -inform der -out PushChatCert.pem
+b:
+openssl pkcs12 -nocerts -out PushChatKey.pem -in zheng1.p12
+
+1)Java服务器所需的证书为p12格式
+c:
+openssl pkcs12 -export -in PushChatCert.pem -inkey PushChatKey.pem -out pushCert.p12 -name “apns-cert”
+
+2）PHP服务器所需证书为pem格式
+c:
+cat PushChatCert.pem PushChatKey.pem > pushCert.pem

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/app/!svn/ver/41175/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Model/DataEntity/3.6%E8%B4%AD%E7%89%A9%E8%BD%A6
+END
+ShoppingCarEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Model/DataEntity/3.6%E8%B4%AD%E7%89%A9%E8%BD%A6/ShoppingCarEntity.h
+END
+DeliverEntity.m
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Model/DataEntity/3.6%E8%B4%AD%E7%89%A9%E8%BD%A6/DeliverEntity.m
+END
+PayTypeEntity.m
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/app/!svn/ver/40903/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Model/DataEntity/3.6%E8%B4%AD%E7%89%A9%E8%BD%A6/PayTypeEntity.m
+END
+PresentationEntity.m
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/app/!svn/ver/41175/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Model/DataEntity/3.6%E8%B4%AD%E7%89%A9%E8%BD%A6/PresentationEntity.m
+END
+GoodsSettleUpEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Model/DataEntity/3.6%E8%B4%AD%E7%89%A9%E8%BD%A6/GoodsSettleUpEntity.h
+END
+ShoppingCarEntity.m
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Model/DataEntity/3.6%E8%B4%AD%E7%89%A9%E8%BD%A6/ShoppingCarEntity.m
+END
+InvoceEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/app/!svn/ver/39076/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Model/DataEntity/3.6%E8%B4%AD%E7%89%A9%E8%BD%A6/InvoceEntity.h
+END
+CommitPresentationEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Model/DataEntity/3.6%E8%B4%AD%E7%89%A9%E8%BD%A6/CommitPresentationEntity.h
+END
+GoodsSettleUpEntity.m
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Model/DataEntity/3.6%E8%B4%AD%E7%89%A9%E8%BD%A6/GoodsSettleUpEntity.m
+END
+InvoceEntity.m
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Model/DataEntity/3.6%E8%B4%AD%E7%89%A9%E8%BD%A6/InvoceEntity.m
+END
+CommitPresentationEntity.m
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Model/DataEntity/3.6%E8%B4%AD%E7%89%A9%E8%BD%A6/CommitPresentationEntity.m
+END
+DeliverEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/app/!svn/ver/38908/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Model/DataEntity/3.6%E8%B4%AD%E7%89%A9%E8%BD%A6/DeliverEntity.h
+END
+PayTypeEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/app/!svn/ver/40903/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Model/DataEntity/3.6%E8%B4%AD%E7%89%A9%E8%BD%A6/PayTypeEntity.h
+END
+PresentationEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/app/!svn/ver/41175/%E6%B5%B7%E6%BE%9C%E4%B9%8B%E5%AE%B6/ios/trunk/src/iPhone20140122/HaiLanZhiJia/Model/DataEntity/3.6%E8%B4%AD%E7%89%A9%E8%BD%A6/PresentationEntity.h
+END
